@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O [Mentoria](https://lorransalberici.github.io/codigo-do-desafio-criandoFormulario-1-/) é uma landing page para usar como cartão de visitas de academia.
+O [Mentoria](https://lorransalberici.github.io/codigo-do-desafio-criandoFormulario-1-/) é uma page de formulario para agendar uma mentoria.
 
 ## 🔖 Layout
 
