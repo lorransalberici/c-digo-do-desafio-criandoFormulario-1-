@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O [Mentoria](https://lorransalberici.github.io/explorer-criando-formulario-1-/). é uma page de formulario para agendar uma mentoria.
+O [Mentoria](https://lorransalberici.github.io/explorer-criando-formulario-1-/) é uma page de formulario para agendar uma mentoria.
 
 ## 🔖 Layout
 
